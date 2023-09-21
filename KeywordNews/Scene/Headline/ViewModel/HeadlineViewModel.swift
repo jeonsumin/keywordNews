@@ -2,7 +2,7 @@
 //  HeadlineViewModel.swift
 //  KeywordNews
 //
-//  Created by deepvisions on 2023/09/21.
+//  Created by terry on 2023/09/21.
 //
 
 import Foundation
